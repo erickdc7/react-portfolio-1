@@ -29,7 +29,7 @@ const Contact = () => {
                             <span className="contact__card-data">user@gmail.com</span>
 
                             <a href="mailto:examplemail@gmail.com.com" className="contact__button">
-                                Write me <i class='bx bx-right-arrow-alt contact__button-icon'></i>
+                                Write me <i className='bx bx-right-arrow-alt contact__button-icon'></i>
                             </a>
                         </div>
 
@@ -40,7 +40,7 @@ const Contact = () => {
                             <span className="contact__card-data">999-888-777</span>
 
                             <a href="https://api.whatsapp.com/send?phone=62214408789&text=Hello, more information!" className="contact__button">
-                                Write me <i class='bx bx-right-arrow-alt contact__button-icon'></i>
+                                Write me <i className='bx bx-right-arrow-alt contact__button-icon'></i>
                             </a>
                         </div>
 
@@ -51,7 +51,7 @@ const Contact = () => {
                             <span className="contact__card-data">user.fb123</span>
 
                             <a href="https://m.me/crypticalcoder" className="contact__button">
-                                Write me <i class='bx bx-right-arrow-alt contact__button-icon'></i>
+                                Write me <i className='bx bx-right-arrow-alt contact__button-icon'></i>
                             </a>
                         </div>
                     </div>
