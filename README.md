@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+# React Portfolio
+This design is inspired by this [video](https://youtu.be/3aCoZudPEKE), which belongs to [Cryptical Coder](https://www.youtube.com/@CrypticalCoder).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Technologies
+This web page was made with the following technologies:
+- HTML5
+- CSS3
+- JavaScript
+- React (useState, useRef)
+- Swiper
+- EmailJS
 
-## Available Scripts
+## Pages
+This web page contains 7 sections: **Home**, **About**, **Skills**, **Services**, **Portfolio**, **Contact** and **Footer**.
 
-In the project directory, you can run:
+### Home
+#### In this section you will see the name, profession and a short description of this person. Their social networks such as Instagram, Dribbble and GitHub.
+![preview home section](src/assets/preview-home.png)
 
-### `npm start`
+### About
+#### In this section you will see a more detailed description of this person, their work experience, completed projects and their support availability. In addition, you will be able to download his CV.
+![preview about section](src/assets/preview-about.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Skills
+#### In this section you will see the skills of this person, both as frontend and backend.
+![preview skills section](src/assets/preview-skills.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Services
+#### In this section you will see the services offered by this person, and the details of each one of them by clicking on them.
+![preview services section 1](src/assets/preview-services-1.png)
+![preview services section 1](src/assets/preview-services-2.png)
 
-### `npm test`
+### Portfolio
+#### In this section you can see the study plan and work experience of this person. Also, below, you can see the testimonials of some clients who worked with this person.
+![preview portfolio section](src/assets/preview-portfolio.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Contact
+#### In this section you will see the options you have to contact this person and also the possibility of sending them a message directly from the website.
+![preview contact section](src/assets/preview-contact.png)
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Footer
+#### In this section you will see the footer, where there are some shortcuts to go up and review the sections again. In addition, there are also their social networks such as Facebook, Instagram and Twitter.
+![preview footer section](src/assets/preview-footer.png)
