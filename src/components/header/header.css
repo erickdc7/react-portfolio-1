@@ -48,6 +48,11 @@
   color: var(--title-color-dark);
 }
 
+/* Change Background Header */
+.scroll-header {
+  box-shadow: 0 -1px 4px rgba(0, 0, 0, 0.15);
+}
+
 /*=============== BREAKPOINTS ===============*/
 /* For medium devices */
 @media screen and (max-width: 768px) {

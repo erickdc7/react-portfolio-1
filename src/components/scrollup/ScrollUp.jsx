@@ -11,7 +11,7 @@ const ScrollUp = () => {
         } else {
             scrollUp.classList.remove("show-scroll")
         }
-    })
+    });
 
     return (
         <a href="#home" className="scrollup">
