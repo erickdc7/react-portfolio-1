@@ -1,4 +1,4 @@
-# React Portfolio
+# React Portfolio 01
 This design is inspired by this [video](https://youtu.be/3aCoZudPEKE), which belongs to [Cryptical Coder](https://www.youtube.com/@CrypticalCoder).
 
 ## Technologies
