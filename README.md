@@ -1,5 +1,5 @@
 # React Portfolio 01
-This design is inspired by this [video](https://youtu.be/3aCoZudPEKE), which belongs to [Cryptical Coder](https://www.youtube.com/@CrypticalCoder).
+This design is inspired by the following videos: [Part 1](https://youtu.be/3aCoZudPEKE), [Part 2](https://youtu.be/lvqsSNvfcMo), which belongs to [Cryptical Coder](https://www.youtube.com/@CrypticalCoder).
 
 ## Technologies
 This web page was made with the following technologies:
@@ -31,7 +31,7 @@ This web page contains 7 sections: **Home**, **About**, **Skills**, **Services**
 ![preview services section 1](src/assets/preview-services-2.png)
 
 ### Portfolio
-#### In this section you can see the study plan and work experience of this person. Also, below, you can see the testimonials of some clients who worked with this person.
+#### In this section you can see the study plan and work experience of this person. You can also see the different projects done. Also, below you can see the testimonials of some clients who worked with this person.
 ![preview portfolio section](src/assets/preview-portfolio.png)
 
 ### Contact
