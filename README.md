@@ -1,5 +1,5 @@
 # React Portfolio 01
-This design is inspired by the following videos: [Part 1](https://youtu.be/3aCoZudPEKE), [Part 2](https://youtu.be/lvqsSNvfcMo), which belongs to [Cryptical Coder](https://www.youtube.com/@CrypticalCoder).
+This design was influenced by the work of [Cryptical Coder](https://www.youtube.com/@CrypticalCoder). Please refer to the following videos as the basis for the design: [Part 1](https://youtu.be/3aCoZudPEKE), [Part 2](https://youtu.be/lvqsSNvfcMo).
 
 ## Technologies
 This web page was made with the following technologies:
